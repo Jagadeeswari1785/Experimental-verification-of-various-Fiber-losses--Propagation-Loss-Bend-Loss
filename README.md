@@ -94,6 +94,8 @@ This \(a\) is for **950nm wavelength**.
 
 ## TABULATION
 
+<img width="1280" height="1033" alt="WhatsApp Image 2026-05-16 at 9 23 17 AM" src="https://github.com/user-attachments/assets/f01a4dbd-af1f-42db-8d72-7a2c757f39ef" />
+
 ### Propagation Loss
 | Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
 |--------------|----------------------|-----------------------|
